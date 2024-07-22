@@ -9,7 +9,7 @@ Content
    * [Installation and Usage](#installation-and-usage)
    * [Getting Started (Project)](#getting-started-project)
    * [Pre-requisites Prior to Analysis](#pre-requisites-before-analysis)
-      * [Directory Structure and Configuration Data](#directory-structure-and-configuration-data)
+      * [Directory Structure and Data Configuration](#directory-structure-and-data-configuration)
       * [Input Data](#input-data)
       * [Supporting Files](#supporting-files)
       * [The Script](#the-script)
