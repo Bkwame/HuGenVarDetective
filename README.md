@@ -1,6 +1,6 @@
 HuGenVarDetective
 ===============
-HuGenVarDetective (GVD) contains code and workflow for analysing human genes using the Genome Analysis Toolkit (GATK) version 4. The goal of this project was divided into two parts: [i] to leverage GATK4's powerful tools for variant discovery (SNP/MNP and INDELs) to conduct comprehensive genomic analyses and [ii] to annotate the discovered variants within our gene of interest using snpeff and snipsift.
+HuGenVarDetective (HgVD) contains code and workflow for analysing human genes using the Genome Analysis Toolkit (GATK) version 4. The goal of this project was divided into two parts: [i] to leverage GATK4's powerful tools for variant discovery (SNP/MNP and INDELs) to conduct comprehensive genomic analyses and [ii] to annotate the discovered variants within our gene of interest using snpeff and snipsift.
 
 Content
 =======
